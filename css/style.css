@@ -31,13 +31,13 @@ h1 {
 header  {
     width: 100%;
     grid-area: h;
-    background-color: mediumblue;
+    background-color:mediumblue;
 
 }
 
 main {
     grid-area: m;
-    background-color: mediumblue;
+    background-color:mediumblue;
     height: 60vh;
 }
 
